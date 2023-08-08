@@ -1,0 +1,19 @@
+ul {
+    color:rgb(64, 214, 199);
+    font-size: 30px;
+}
+
+ol {
+    font: bold;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.mystyle {
+    color:crimson;
+    font-size: 40px;
+}
+
+#heading3 {
+    font-style: italic;
+    font-stretch: ultra-expanded;
+}
